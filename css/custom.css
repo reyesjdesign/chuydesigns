@@ -1,0 +1,46 @@
+.projects-div{
+    color: #FFFFFF;
+    font-family: Rubik;
+    letter-spacing: 3px;
+}
+.projects-text{
+    border-left-style: solid;
+    border-left-width: thick;
+
+}
+
+.img-crumbs{
+	max-width: 100%;
+	height: auto;
+	background-image: url("../images/cecy-crumbs.png");
+	background-size: cover;
+	background-position: center;
+}
+
+.img-cove{
+	max-width: 100%;
+	height: auto;
+	background-image: url("");
+	background-size: cover;
+	background-position: center;
+}
+.img-dude{
+	max-width: 100%;
+	height: auto;
+	background-image: url("");
+	background-size: cover;
+	background-position: center;
+}
+.img-tide{
+	max-width: 100%;
+	height: auto;
+	background-image: url("");
+	background-size: cover;
+	background-position: center;
+}
+
+.link-style{
+	text-decoration: none;
+	color: inherit;
+	hover
+}
